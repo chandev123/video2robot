@@ -1,3 +1,5 @@
+2025-12-29 수입. 학습목적
+
 # video2robot
 
 End-to-end pipeline: Video (or Prompt) → Human Pose Extraction → Robot Motion Conversion
